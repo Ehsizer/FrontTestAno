@@ -1,0 +1,60 @@
+{
+  "header": {
+    "logo": "https://example.com/logo.png",
+    "rating": 4.5,
+    "reviewsCount": 123
+  },
+  "products": [
+    {
+      "id": 1,
+      "name": "Product 1",
+      "price": 100,
+      "image": "https://example.com/product1.png"
+    },
+    {
+      "id": 2,
+      "name": "Product 2",
+      "price": 200,
+      "image": "https://example.com/product2.png"
+    },
+    {
+      "id": 3,
+      "name": "Product 3",
+      "price": 200,
+      "image": "https://example.com/product3.png"
+    },
+    {
+      "id": 4,
+      "name": "Product 4",
+      "price": 200,
+      "image": "https://example.com/product4.png"
+    },
+    {
+      "id": 5,
+      "name": "Product 5",
+      "price": 200,
+      "image": "https://example.com/product5.png"
+    }
+  ],
+  "agents": [
+    {
+      "id": 1,
+      "name": "Agent 1",
+      "phone": "+123456789",
+      "email": "agent1@example.com",
+      "image": "https://example.com/agent1.png"
+    },
+    {
+      "id": 2,
+      "name": "Agent 2",
+      "phone": "+987654321",
+      "email": "agent2@example.com",
+      "image": "https://example.com/agent2.png"
+    }
+  ],
+  "company": {
+    "name": "My Company",
+    "description": "We are a leading company in...",
+    "logo": "https://example.com/company-logo.png"
+  }
+}
