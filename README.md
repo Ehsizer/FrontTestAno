@@ -42,6 +42,6 @@
 
 ## Запуск проекта
 
-1. Запустить Json server командой *npx json-server --watch db.json --port 3000*
+1. Запустить Json server командой *npx json-server --watch db.json --port 5000*
 2. Запустить SPA командой npm run serve
 
